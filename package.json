@@ -1,0 +1,30 @@
+{
+  "name": "leaf-tracker",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "main": "app.js",
+  "copyright": "Roman Zhakhov",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "core-js": "^3.1",
+    "extend": "^3.0.2",
+    "leaflet": "^1.5.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/plugin-proposal-class-properties": "^7.5",
+    "@babel/plugin-syntax-dynamic-import": "^7.2",
+    "@babel/preset-env": "^7.5.4",
+    "rollup-plugin-alias": "^1.5.2",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.0.1",
+    "rollup-plugin-less": "^1.1.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-uglify": "^6.0.2"
+  }
+}
