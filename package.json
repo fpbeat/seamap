@@ -9,7 +9,7 @@
   "main": "app.js",
   "copyright": "Roman Zhakhov",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.1",
     "extend": "^3.0.2",
     "leaflet": "^1.5.1",
